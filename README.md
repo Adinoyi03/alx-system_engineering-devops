@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-I am a ALX student
+#!/bin/bash
+For alx system engineering neering devops course
