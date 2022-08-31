@@ -1,2 +1,2 @@
 #!/bin/bash
-this is my my current working directory under system is engineering devops course. i believe i will do well on it
+This is a file on my system engineering course on ALX africa 0x00-shell_basics
