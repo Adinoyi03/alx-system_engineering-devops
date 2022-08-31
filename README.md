@@ -1,2 +1,3 @@
 #!/bin/bash
-For alx system engineering neering devops course. As a non engineering student i am optimistic that i will perform well im this taks
+a file on my system engineering course on ALX africa with 0x00-shell_basics
+
